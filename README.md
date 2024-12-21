@@ -1,8 +1,9 @@
 # My Project
 
-Welcome to my awesome project!
+Welcome to my Products project!
 
 ## Screenshot
+Implementation of Adding products to Cart using Context API 
 Here is a screenshot of the application:
 
 <img width="1064" alt="image" src="https://github.com/user-attachments/assets/ad0356d2-4678-4938-82fd-a7c2521bf51b" />
